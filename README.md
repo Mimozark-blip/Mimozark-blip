@@ -12,15 +12,15 @@
 <!-- Social Links with Gradient Border -->
 <div align="center" style="display:flex; gap:10px; justify-content:center;">
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" style="padding:3px; border-radius:12px; border:3px solid; border-image: linear-gradient(45deg,#0077b5,#00c3ff) 1;">
+  <a href="https://www.linkedin.com/in/fahil-namia-3650762b4" target="_blank" style="padding:3px; border-radius:12px; border:3px solid; border-image: linear-gradient(45deg,#0077b5,#00c3ff) 1;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank" style="padding:3px; border-radius:12px; border:3px solid; border-image: linear-gradient(45deg,#1877F2,#00c3ff) 1;">
+  <a href="https://www.facebook.com/fahil.namia.1" target="_blank" style="padding:3px; border-radius:12px; border:3px solid; border-image: linear-gradient(45deg,#1877F2,#00c3ff) 1;">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank" style="padding:3px; border-radius:12px; border:3px solid; border-image: linear-gradient(45deg,#D44638,#ff7c7c) 1;">
+  <a href="mailto:namiafahil70@gmail.com" target="_blank" style="padding:3px; border-radius:12px; border:3px solid; border-image: linear-gradient(45deg,#D44638,#ff7c7c) 1;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
@@ -53,123 +53,85 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="left">
+<div align="left">
+  <!-- Arduino -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+  
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img width="12" />
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Flutter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img width="12" />
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Chart.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="30" alt="chartjs logo" />
+  <img width="12" />
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
 
-<a href="https://bulma.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img width="12" />
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
 
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="react logo" />
+  <img width="12" />
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+</div>
 
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-</p>
 
 ---
 
