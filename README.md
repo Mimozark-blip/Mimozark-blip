@@ -145,3 +145,12 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
   </a>
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
