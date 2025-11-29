@@ -29,8 +29,11 @@
 <br/>
 
 <div align="center" style="border:3px solid; border-image:linear-gradient(45deg,#66ffcc,#00c3ff,#6a5acd) 1; padding:10px; width:180px; border-radius:15px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza" />
+  <a href="https://github.com/Mimozark-blip" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Mimozark-blip.Mimozark-blip" alt="GitHub Visitors Badge" />
+  </a>
 </div>
+
 
 <br/>
 
@@ -137,5 +140,8 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 
 ### 🔥 My Stats  
 <div align="center" style="padding:15px; border-radius:15px; border:3px solid; border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <a href="https://github.com/Mimozark-blip" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=Mimozark-blip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
+  </a>
 </div>
+
