@@ -1,2 +1,2 @@
-# Fahil
-A collection of projects that reflect my growth as a developer
+# FaHiL
+Welcome to my corner of GitHub. Let’s build cool things!
