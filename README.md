@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+
 <div align="center" style="padding: 20px; border-radius: 20px; border: 3px solid; border-image: linear-gradient(45deg, #6a5acd, #00c3ff, #66ffcc) 1;">
   <img height="150" style="border-radius: 50%; border: 4px solid transparent; background-image: linear-gradient(#000, #000), linear-gradient(45deg, #00c8ff, #6a5acd); background-origin: border-box; background-clip: content-box, border-box;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -171,7 +176,7 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 </picture>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 
