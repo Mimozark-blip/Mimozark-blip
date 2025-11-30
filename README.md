@@ -140,7 +140,7 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 
 ### 🔥 My Stats  
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center;">
 
   <!-- Column 1: GIF -->
   <div>
