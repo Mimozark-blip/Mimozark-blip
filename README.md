@@ -139,12 +139,14 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 ---
 
 ### 🔥 My Stats  
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
 
-  <!-- GIF -->
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif" />
+  <!-- Column 1: GIF -->
+  <div>
+    <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif" />
+  </div>
 
-  <!-- GitHub Card -->
+  <!-- Column 2: GitHub Card -->
   <div style="padding:15px; border-radius:15px; border:3px solid; border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;">
     <a href="https://github.com/Mimozark-blip" target="_blank">
       <img src="https://streak-stats.demolab.com?user=Mimozark-blip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
@@ -152,6 +154,9 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
   </div>
 
 </div>
+
+
+
 
 
 
