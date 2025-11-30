@@ -141,17 +141,12 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 ### 🔥 My Stats  
 
 <div style="display: flex; align-items: space-between; gap: 20px;">
-
   <!-- GIF -->
-  <img 
-    style="padding:15px; margin:15px; border-radius:15px; border:3px solid; 
-           border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;" 
-    height="200"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif"
-  />
+  <img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif"  />
 
   <!-- GitHub Card -->
-  <div 
+  <div align="center">
+    <div 
     style="padding:15px; margin:15px; border-radius:15px; border:3px solid; 
            border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;">
     <a href="https://github.com/Mimozark-blip" target="_blank">
@@ -162,7 +157,7 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
       />
     </a>
   </div>
-
+  </div>
 </div>
 
 
