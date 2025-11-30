@@ -14,7 +14,12 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00c3ff">Fahil Namia</span></h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=🌟+Hola+There!+🌟;I'm+Fahil+Namia;" />
+</h1>
+
+
 <h3 align="center">A Passionate Software Developer from the Philippines</h3>
 
 <br/>
@@ -137,27 +142,30 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 
 ---
 
+
+
 ### 🔥 My Stats  
 
-<div style="display: flex; align-items: space-between; gap: 20px;">
+<br clear="both">
 
+<div style="display: flex; align-items: space-between; gap: 20px;">
   <!-- GIF -->
   <img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif" />
 
-  
   <!-- GitHub Card -->
   <div align="center">
-    <div 
-    style="padding:15px; margin:15px; border-radius:15px; border:3px solid; 
-           border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;">
-    <a href="https://github.com/Mimozark-blip" target="_blank">
-      <img 
-        src="https://streak-stats.demolab.com?user=Mimozark-blip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" 
-        height="220" 
-        alt="GitHub Streak Stats"
-      />
-    </a>
-  </div>
+  <!-- Streak stats -->
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mimozark-blip&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <!-- Overall GitHub stats -->
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Mimozark-blip&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <br/>
+
+  <!-- Top languages -->
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mimozark-blip&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 </div>
 </div>
 
