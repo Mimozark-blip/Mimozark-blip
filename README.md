@@ -162,6 +162,7 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 </div>
 </div>
 
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph-dark.svg">
