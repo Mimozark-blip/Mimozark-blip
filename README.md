@@ -140,28 +140,33 @@ I'm Fahil, a dedicated developer passionate about building intuitive, fast, and 
 
 ### 🔥 My Stats  
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; align-items: space-between; gap: 20px;">
 
-  <!-- Column 1: GIF -->
-  <div>
-    <img align="right" height="200"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif" />
-  </div>
+  <!-- GIF -->
+  <img 
+    style="padding:15px; margin:15px; border-radius:15px; border:3px solid; 
+           border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;" 
+    height="200"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNwYnRncDlya3dtYTltMzBsNmNsbHJuYmpleWVpM3c3MXd4d21jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WPWATu5KDiyZpKap1x/giphy.gif"
+  />
 
-  <!-- Column 2: GitHub Card -->
-  <div align="left" style="padding:15px; border-radius:15px; border:3px solid; border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;">
+  <!-- GitHub Card -->
+  <div 
+    style="padding:15px; margin:15px; border-radius:15px; border:3px solid; 
+           border-image:linear-gradient(45deg,#6a5acd,#00c3ff,#66ffcc) 1;">
     <a href="https://github.com/Mimozark-blip" target="_blank">
-      <img src="https://streak-stats.demolab.com?user=Mimozark-blip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
+      <img 
+        src="https://streak-stats.demolab.com?user=Mimozark-blip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" 
+        height="220" 
+        alt="GitHub Streak Stats"
+      />
     </a>
   </div>
 
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mimozark-blip/Mimozark-blip/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
